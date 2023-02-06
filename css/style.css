@@ -55,3 +55,42 @@ header{
     height: 250px;
 }
 
+.up{
+    background-color: rgb(35, 39, 42);
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    gap: 2px;
+}
+
+.red{
+    background-color: rgb(233, 125, 125);
+    width: 20%;
+    height: 180px;
+}
+
+.aqua{
+    background-color: rgb(31, 172, 165);
+    width: calc(60% / 4 - (8px / 4));
+    height: 180px;
+}
+
+.down{
+    background-color: rgb(35, 39, 42);
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border: 1px solid rgb(211, 211, 211);
+}
+
+.marine{
+    background-color: rgb(81, 148, 126);
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+/* colori dei logo e bottone */
+.si{
+    background-color: rgb(152, 112, 118);
+}
