@@ -33,21 +33,24 @@ nav{
     
 }
 
-ul{
-    width: 50%;
-    
-}
-
-li{
-    list-style-type: none;
-}
-
 .center{
     justify-content: center;
     display: flex;
     background-color:rgb(179, 137, 31);
     padding: 5px;
 }
+
+ul{
+    width: 50%;
+}
+
+li{
+    list-style-type: none;
+    margin: 0 50px;
+}
+
+
+
 
 
 /* header */
