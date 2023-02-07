@@ -5,6 +5,51 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* nav */
+
+nav{
+    display: flex;
+    background-color: rgb(138, 171, 181);
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.tittle{
+    display: flex;
+    width: 80%;
+    gap: 1px;
+}
+
+.logo-up{
+    width: 25%;
+    justify-content: center;
+}
+
+.login{
+    
+    width: 25%;
+    
+}
+
+ul{
+    width: 50%;
+    
+}
+
+li{
+    list-style-type: none;
+}
+
+.center{
+    justify-content: center;
+    display: flex;
+    background-color:rgb(179, 137, 31);
+    padding: 5px;
+}
+
+
 /* header */
 header{
     background-color: rgb(4, 4, 126);
@@ -96,3 +141,4 @@ header{
 .si{
     background-color: rgb(152, 112, 118);
 }
+
